@@ -20,8 +20,8 @@ If you are not familiar with pm2: https://pm2.keymetrics.io/docs/usage/quick-sta
   yarn start:dev
   ```
 
-# Start with pm2
+<!-- # Start with pm2
 
 ```
 pm2 start pm2.production.json
-```
+``` -->
